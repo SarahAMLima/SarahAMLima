@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sarah Lima
+# 🤿 Sarah Lima
 
 **`Oceanographer and GIS project developer (Diver/Content Creator)`**
 
