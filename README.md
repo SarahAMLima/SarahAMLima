@@ -2,7 +2,7 @@
 
 **`Oceanographer and GIS project developer (Diver/Content Creator)`**
 
-I'm a Latina oceanographer and content creator interested in using Engineer for ocean conservation while swimming across the seas. All coding projects are built from the ground up and focused on solving real-life problems with code. Here you will find projects I developed while a self-taught student using online resources but also projects related to GIS and social projects similar to the ones I handle on a daily basis as a GIS technician in France.
+I'm a Latina oceanographer interested in using Engineer for ocean conservation while swimming across the seas. All coding projects are built from the ground up and focused on solving real-life problems with code. Here you will find projects I developed while a self-taught student using online resources but also projects related to GIS and social projects similar to the ones I handle on a daily basis as a GIS technician in France.
 
  
 ### 🧰 Languages and Tools
